@@ -128,11 +128,13 @@ function elevarAlCuadrado(num) {
   // Tu código:
   return Math.pow(num, 2);
 }
+
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
   return num * num * num;
 }
+
 function elevar(num, exponent) {
   // Devuelve el valor de "num" elevado al exponente dado en "exponent"
   // Tu código:
